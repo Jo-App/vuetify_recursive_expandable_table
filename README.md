@@ -1,29 +1,8 @@
-# josh_vuetify_recursive_expandable_table
+### [Vuetify] Data table 무한뎁스 처리
 
-## Project setup
-```
-npm install
-```
+##### - Node v10.16.0
+##### - Vuetify2
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![이미지](https://blog.kakaocdn.net/dn/IAoyd/btqCcCu88il/tMzIxwyPXzeqMvBB3zYpT0/img.jpg)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<https://dev-josh.tistory.com/10?category=821610>
